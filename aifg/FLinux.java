@@ -1,7 +1,10 @@
 package aifg;
-import robocode.*;
 import java.awt.Color;
-import java.awt.geom.Point2D;
+
+import robocode.AdvancedRobot;
+import robocode.HitByBulletEvent;
+import robocode.HitWallEvent;
+import robocode.ScannedRobotEvent;
 
 /**
  * FLinux - a robot by (your name here)
