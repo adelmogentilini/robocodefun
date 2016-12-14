@@ -1,9 +1,7 @@
-package firstGeneration;
+package bot.lalek.firstGeneration;
 
-import java.awt.Point;
-
+import bot.support.HelperBot;
 import robocode.Robot;
-import support.HelperBot;
 
 /**
  * Classe astratta che è la radice dei robot AG.

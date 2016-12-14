@@ -1,9 +1,9 @@
-package firstGeneration;
+package bot.lalek.firstGeneration;
 
 import java.awt.Color;
 
+import bot.support.HelperBot;
 import robocode.ScannedRobotEvent;
-import support.HelperBot;
 
 /**
  * ROBOT classe ALFA.

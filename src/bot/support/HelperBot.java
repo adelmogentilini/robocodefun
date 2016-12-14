@@ -1,4 +1,4 @@
-package support;
+package bot.support;
 
 import java.awt.Color;
 

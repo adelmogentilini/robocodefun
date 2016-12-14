@@ -1,4 +1,4 @@
-package firstGeneration;
+package bot.lalek.firstGeneration;
 
 import robocode.HitWallEvent;
 import robocode.ScannedRobotEvent;
