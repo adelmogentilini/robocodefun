@@ -35,6 +35,7 @@ public class FLinux extends AdvancedRobot
 	public void onBulletMissed(BulletMissedEvent event) {
 		setAhead(100);
 	}
+	
 	/**
 	 * onHitByBullet: What to do when you're hit by a bullet
 	 */
